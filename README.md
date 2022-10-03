@@ -10,6 +10,6 @@ Screenshot :
 
 URls:
 
-Live site:
+Live site: https://urstupidsammy.github.io/passwordGenerator/
 
 GitHub: https://github.com/Urstupidsammy/passwordGenerator
